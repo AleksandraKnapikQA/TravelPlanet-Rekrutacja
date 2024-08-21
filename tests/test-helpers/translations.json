@@ -1,0 +1,37 @@
+{
+  "travelPlanetPL": {
+    "login": "Zaloguj się",
+    "submitLogin": "Zaloguj się",
+    "loginErrorMsg": "Wypełniłeś formularz niepoprawnie. Spróbuj raz jeszcze.",
+    "Egypt": "Egipt",
+    "holidays": "wakacje",
+    "checkPrice": "Sprawdź cenę"
+  },
+
+  "inviaSK": {
+    "login": "Prihlásiť sa",
+    "submitLogin": "Prihlásiť",
+    "loginErrorMsg": "Zadali ste nesprávne prihlasovací údaje. Skúste to prosím ešte raz.",
+    "Egypt": "Egypt",
+    "holidays": "dovolenka",
+    "checkPrice": "Zobraziť detail zájazdu"
+  },
+
+  "inviaCZ": {
+    "login": "Přihlásit se",
+    "submitLogin": "Přihlásit",
+    "loginErrorMsg": "Zadali jste nesprávné přihlašovací údaje. Prosím zkuste to znovu.",
+    "Egypt": "Egypt",
+    "holidays": "dovolena",
+    "checkPrice": "Zobrazit detail zájezdu"
+  },
+
+  "inviaHU": {
+    "login": "Bejelentkezés",
+    "submitLogin": "Bejelentkezés",
+    "loginErrorMsg": "Hibás felhasznásználói adatokat adott meg. Kérjük próbálja meg újra.",
+    "Egypt": "Egyiptom",
+    "holidays": "utazasok",
+    "checkPrice": "Megnézem"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "travelplanet-rekrutacja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "PL": "npx playwright test --project travelPlanetPL",
+    "SK": "npx playwright test --project inviaSK",
+    "CZ": "npx playwright test --project inviaCZ",
+    "HU": "npx playwright test --project inviaHU",
+    "ALL": "npm run PL && npm run SK && npm run CZ && npm run HU"
+  },
+  "keywords": [],
+  "author": "Aleksandra Knapik",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0"
+  }
+}
